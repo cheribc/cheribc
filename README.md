@@ -12,8 +12,7 @@
 - [LinkedIn](https://linkedin.com/in/heatherbcooper)
 - [Gmail](hbcooper4@gmail.com)
 ---
-__Resume__
-- [hbcResumeClin 0721.pdf](https://github.com/cheribc/cheribc/files/7772514/hbcResumeClin.0721.pdf)
+
 
 
 #### __Recent Project__

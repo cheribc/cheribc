@@ -15,7 +15,9 @@
 
 
 
-#### __Recent Project__
+#### __Recent Projects__
+- [Restful-Fitness](https://github.com/Shadae96/Restful-Fitness)
+
 - [Guardians of the Code](https://nsoroma.github.io/Guardians-of-the-Code-Galaxy)
 
 

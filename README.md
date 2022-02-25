@@ -2,8 +2,9 @@
 
 
 
-- 🔭 I’m currently working on JavaScript applications to practice my front-end development skills
-- 🌱 I’m currently learning Node.js, utilizing ES6, and asynchronous JavaScript callbacks and promises 
+- 🔭 I’m currently working on completing my full-stack MERN bootcamp soon!!
+- I have learned front-end development, and Node.js, SQL, multiple Javascript frameworks and libraries, and developed ORM's, MVC's while increasing proficiency in front-end UI/UX.
+- 🌱 I’m currently learning Regex, NOSQL, and Mongo.db.
 - 😄 Pronouns: She/her
 - ⚡ Interesting fact: I'm a pharmacist 💊  learning how to code :woman_technologist:
 

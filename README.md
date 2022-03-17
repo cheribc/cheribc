@@ -23,12 +23,10 @@
 ---
 
 
-
 #### __Recent Projects__
 - [Restful-Fitness](https://github.com/Shadae96/Restful-Fitness)
 
 - [Guardians of the Code](https://nsoroma.github.io/Guardians-of-the-Code-Galaxy)
 
-
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheribc&show_icons=true&theme=nightowl)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheribc&theme=nightowl)](https://github.com/cheribc/github-readme-stats)

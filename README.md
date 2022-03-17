@@ -18,6 +18,8 @@
 - __📫 How to reach me:__ 
 - [LinkedIn](https://linkedin.com/in/heatherbcooper)
 - [Gmail](hbcooper4@gmail.com)
+
+- [Portfolio](https://cheribc.github.io/HC-Portfolio/)
 ---
 
 

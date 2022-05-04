@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I will be completing my full-stack MERN bootcamp soon!!
+- 🔭 I am a new dev and recently completed a MERN Full-Stack Web Development Certification through GA Tech University!!
 
 - I have learned front-end development, and Node.js, SQL, multiple Javascript frameworks and libraries, and developed ORM's, MVC's while increasing proficiency in front-end UI/UX.
 
-- 🌱 I’m currently learning Regex, SQL, NOSQL, MVC's, CMS, Restful API's, MongoDB, React, PWA's 
+- 🌱 I’m currently learning more about React Hooks, authentication and copywriting. 
 
 
 - 😄 Pronouns: She/her
@@ -24,6 +24,9 @@
 
 
 #### __Recent Projects__
+
+- [Devs-Help](https://github.com/nsoroma/DevsHelp)
+
 - [Restful-Fitness](https://github.com/Shadae96/Restful-Fitness)
 
 - [Guardians of the Code](https://nsoroma.github.io/Guardians-of-the-Code-Galaxy)

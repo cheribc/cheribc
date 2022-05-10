@@ -15,13 +15,21 @@
 - ⚡ Interesting fact: I'm a pharmacist 💊  learning how to code!
 
 ---
-- __📫 How to reach me:__ 
+### __How to reach me:__
+
+
 - [LinkedIn](https://linkedin.com/in/heatherbcooper)
-- [Gmail](hbcooper4@gmail.com)
+
+- [Twitter](https://twitter.com/hbcoop)
 
 - [Portfolio](https://cheribc.github.io/HC-Portfolio/)
 ---
 
+__Check out my blog__
+
+-  [Medium](https://medium.com/@hbcooper4)
+
+---
 
 #### __Recent Projects__
 

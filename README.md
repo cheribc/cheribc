@@ -12,7 +12,6 @@
 - 😄 Pronouns: She/her
 
 
-- ⚡ Interesting fact: I'm a pharmacist 💊  learning how to code!
 
 ---
 ### __How to reach me:__
@@ -22,7 +21,7 @@
 
 - [Twitter](https://twitter.com/hbcoop)
 
-- [Portfolio](https://cheribc.github.io/HC-Portfolio/)
+
 ---
 
 __Check out my blog__

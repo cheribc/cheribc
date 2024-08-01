@@ -1,9 +1,4 @@
-### Hi there 👋
-
-I'm an AI Educator & Consultant exploring the creation of innovative visual content & storytelling.
-
-I have a MERN stack background.
-
+AI Educator & Consultant | Exploring innovative visual content & storytelling
 
 ---
 ### __You can find me on:__
